@@ -52,8 +52,6 @@ https://taskflow-api-cwis.onrender.com/api/tasks
 
 ## Screenshot Files
 
-Save the actual screenshots in the repository using this structure:
-
 ```text
 README.md
 screenshots/

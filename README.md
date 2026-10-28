@@ -23,7 +23,7 @@ https://taskflow-api-cwis.onrender.com/api/tasks
 
 ![Render dashboard showing the active TaskFlow deployment](screenshots/render-dashboard.png)
 
-### 2. Live Application Working in Postman
+### 2. Live Application Working
 
 ![Live TaskFlow API showing the tasks endpoint and JSON response](screenshots/live-application.png)
 
